@@ -1,0 +1,1 @@
+Ich programmiere noch nicht lange, aber habe angefangen dieses Impostorspiel zu programmieren, was man perfekt mit Freunden spielen kann. Wenn ihr es auch spielen wollt, dann speichert einfach den Code in einer .hmtl file und ihr könnt das Spiel für immer lokal und offline spielen. Viel Spaß!
